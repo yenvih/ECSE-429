@@ -14,7 +14,7 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
  
 @RunWith(Suite.class)
-@SuiteClasses({ TestClassA.class, TestClassB.class, TestClassC.class })
+@SuiteClasses({ TestClassA.class, TestClassB.class, TestClassC.class, TestClassD.class })
 public class TestSuiteSimple {
  
 }
