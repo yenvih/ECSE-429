@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='com.group17.pitest.Arithmetics' method='difference(II)I' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testDifference()'/>
+<test name='com.group17.pitest.TestClassB.test_B1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.Arithmetics' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testDifference()'/>
+<test name='com.group17.pitest.ArithmeticsTest.testProduct()'/>
+<test name='com.group17.pitest.ArithmeticsTest.testQuot()'/>
+<test name='com.group17.pitest.ArithmeticsTest.testSum()'/>
+<test name='com.group17.pitest.TestClassA.test_A1()'/>
+<test name='com.group17.pitest.TestClassB.test_B1()'/>
+<test name='com.group17.pitest.TestClassC.test_C1()'/>
+<test name='com.group17.pitest.TestClassD.test_D1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.ArithmeticsTest' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testDifference()'/>
+<test name='com.group17.pitest.ArithmeticsTest.testProduct()'/>
+<test name='com.group17.pitest.ArithmeticsTest.testQuot()'/>
+<test name='com.group17.pitest.ArithmeticsTest.testSum()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.ArithmeticsTest' method='testDifference()V' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testDifference()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.ArithmeticsTest' method='testProduct()V' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testProduct()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.Arithmetics' method='product(II)I' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testProduct()'/>
+<test name='com.group17.pitest.TestClassC.test_C1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.Arithmetics' method='quot(II)I' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testQuot()'/>
+<test name='com.group17.pitest.TestClassD.test_D1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.ArithmeticsTest' method='testQuot()V' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testQuot()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.Arithmetics' method='sum(II)I' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testSum()'/>
+<test name='com.group17.pitest.TestClassA.test_A1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.ArithmeticsTest' method='testSum()V' number='0'><tests>
+<test name='com.group17.pitest.ArithmeticsTest.testSum()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassA' method='test_A1()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassA.test_A1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassA' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassA.test_A1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassB' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassB.test_B1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassB' method='test_B1()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassB.test_B1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassC' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassC.test_C1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassC' method='test_C1()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassC.test_C1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassD' method='test_D1()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassD.test_D1()'/>
+</tests>
+</block>
+<block classname='com.group17.pitest.TestClassD' method='&#60;init&#62;()V' number='0'><tests>
+<test name='com.group17.pitest.TestClassD.test_D1()'/>
+</tests>
+</block>
+</coverage>
